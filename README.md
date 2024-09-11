@@ -1,1 +1,0 @@
-# PT-BR-Forex-Sentiment-Analysis
