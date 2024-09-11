@@ -1,0 +1,7 @@
+# Ignore directories
+FinBERT-PT-BR/
+News_Sample/andre
+venv/
+
+# Ignore specific file
+Merged_News_Samples.txt
