@@ -1,4 +1,4 @@
-### **Applying Sentiment Analysis to the Portuguese Language for High Frequency Data Forecasting within the Foreign Exchange (FX) Market**
+### **Applying Sentiment Analysis to the Brazilian Portuguese Financial News to Enhance Trading Decisions within the Foreign Exchange (FX) Market**
 
 - What is Sentiment?
     - Emotions
