@@ -1,13 +1,6 @@
 ### **Applying Sentiment Analysis to Brazilian Portuguese Financial News to Enhance Trading Decisions within the Foreign Exchange (FX) Market**
 
-- What is Sentiment?
-    - Emotions
-- Using / Exploiting Sentiment
-    - Step 1: Is the sentiment relevant?
-    - Does the sentiment of the data allow us to make trading decisions?
-- Start with:
-    1. A Testable Hypothesis - drives the analysis process
-    2. Test/Validate it
+Current Task: Plan
 
 ### 5-Step Sentiment Analysis Process (Can Vary)
 
