@@ -1,7 +1,7 @@
 ### **USD/BRL News Classification and Trading Signal Generator**
 This project leverages NLP to generate actionable insights for forex trading, aiming to capture market-moving trends and enhance decision-making within the USD/BRL currency pair.
 
-***Three lABELS used during classification:***
+***3 labels used during classification:***
 - Good for the BRL (+1)
 - Bad for the USD (-1)
 - Good for Neither (0)
