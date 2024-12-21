@@ -1,4 +1,4 @@
 # Ignore directories
 FinBERT-PT-BR/
-notebooks/data/
+notebooks/data/News_Sample
 venv/
